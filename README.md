@@ -30,9 +30,7 @@ Effortlessly explore quotes with just a few taps.
 - **get** : This package use for efficient state management
 - **sqflite** : This package use for store budget data in database!
 
-
 <h1 align="left"> </h1>
-
 
 <div align="center">
 
@@ -56,6 +54,8 @@ Effortlessly explore quotes with just a few taps.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="550" src="https://github.com/user-attachments/assets/f4cb4e0b-d345-41f5-980f-26b4da2572d8"/>
 </div>
+
+<h1 align="left"> </h1>
 
 <div align="center">
 <video height="550" src="https://github.com/user-attachments/assets/6c2b38eb-02fe-47d7-8d3b-d3a6c3474093"/>
